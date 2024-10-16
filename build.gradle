@@ -1,6 +1,5 @@
 
 apply plugin: 'com.android.library'
-apply plugin: 'maven-publish'
 apply plugin: 'kotlin-android'
 
 def openCVersionName = "4.1.0"
